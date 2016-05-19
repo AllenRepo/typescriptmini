@@ -1,0 +1,2 @@
+# typescriptmini
+> Scaffolded typescript project
