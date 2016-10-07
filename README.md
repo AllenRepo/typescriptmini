@@ -1,4 +1,5 @@
 # typescriptmini
-> Scaffolded typescript project
+Scaffolded typescript project
 
-## templated solution
+## work in progress
+Building sample project to help train teammates
