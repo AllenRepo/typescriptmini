@@ -1,5 +1,5 @@
 # typescriptmini
-> Scaffolded typescript project
+> Scaffolded typescript project  
 > Direct port from typescript documentations
 
 ## work in progress
